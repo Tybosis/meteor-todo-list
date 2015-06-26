@@ -4,4 +4,4 @@ By Tyler Pottle
 
 ### Description
 
-A Simple todo list to gain familiarity with [Meteor.js](https://www.meteor.com/)
+A Simple todo list to gain familiarity with <a href="http://www.meteor.com">Meteor.js</a>
